@@ -2,12 +2,12 @@
 
 >This is a notes app made in flutter.
 
-<!-- ![Sign Up Page](/assets/sign_up.jpg =100x20) -->
-
 ## Sample images of notes application:
-<img src="./assets/sign_up.jpg" width="200" height="350" />
-<img src="./assets/sign_in.jpg" width="200" height="350" />
-<img src="./assets/google_sign.jpg" width="200" height="350" />
+![Sign Up Page](/assets/sign_up.jpg)
+
+![Sign Ip Page](/assets/sign_in.jpg)
+
+![Google sign in](/assets/google_sign.jpg)
 
 # Contributors
 | Name           | Bits Roll No.     | Bits Mail ID                           |
